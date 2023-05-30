@@ -1,2 +1,10 @@
-# pihole_blocklist
-Personal list of domains that I have found and added to a block list
+# Blocked Domains List
+
+Domains that I have come across to Block
+
+Created by an0malous_
+
+https://ctrlesc.xyz
+
+-----------------------------------------
+
