@@ -8,18 +8,18 @@
 #
 #-----------------------------------------
 
-inpqwdlaygvnsy.com
-nluclmcdwloe.com
-pgkcecbd.com
-psxngarhwbt.com
-vupamoupjgm.com
-xefkwqbod.com
-ykewnitwqomcn.com
-eipybpsdspej.com
-thereuponscare.com
-qfind.net
-dnavexch.com
-njtown.jog.buttobi.net
-pinochan.net
-bvffalo.land
-securedsmcd.com
+0.0.0.0 inpqwdlaygvnsy.com
+0.0.0.0 nluclmcdwloe.com
+0.0.0.0 pgkcecbd.com
+0.0.0.0 psxngarhwbt.com
+0.0.0.0 vupamoupjgm.com
+0.0.0.0 xefkwqbod.com
+0.0.0.0 ykewnitwqomcn.com
+0.0.0.0 eipybpsdspej.com
+0.0.0.0 thereuponscare.com
+0.0.0.0 qfind.net
+0.0.0.0 dnavexch.com
+0.0.0.0 njtown.jog.buttobi.net
+0.0.0.0 pinochan.net
+0.0.0.0 bvffalo.land
+0.0.0.0 securedsmcd.com
